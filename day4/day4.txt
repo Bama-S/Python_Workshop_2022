@@ -1,0 +1,16 @@
+Data structures in Python
+List, Tuple, Dictionary
+
+List
+Accessing the list, modifying the elements in a list
+methods in list
+slicing of list
+looping within lists
+nested list
+
+Tuple
+
+Dictionary
+
+
+

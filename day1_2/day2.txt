@@ -1,0 +1,14 @@
+1. data Types in python
+Integers - 5,60,78 
+Float - Decimal values
+Strings - characters, eg.. "a", string - "hello world"
+
+2. Input and Output statements
+
+3. If then conditionals
+
+4. Loops
+  For
+  While
+
+5. Functions
